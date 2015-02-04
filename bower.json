@@ -1,0 +1,22 @@
+{
+  "name": "geneticSandbox",
+  "version": "0.1.1",
+  "authors": [
+    "Johannes Kepper <kepper@edirom.de>",
+    "Maja Hartwig <hartwig@beethovens-werkstatt.de>"
+  ],
+  "license": "AGPL-3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "dist",
+    "build",
+    "data"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "font-awesome": ">= 4.0.3",
+    "facsimileViewer":"https://github.com/BeethovensWerkstatt/Leaflet.FacsimileViewer.git"
+  }
+}
